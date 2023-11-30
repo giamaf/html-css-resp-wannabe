@@ -29,4 +29,8 @@
     .lessons .col {
         width: 65%;
     }
+
+    .why-us .col-right {
+        text-align: center;
+    }
 }
