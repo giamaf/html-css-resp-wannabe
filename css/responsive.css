@@ -22,15 +22,31 @@
         width: 65%;
     }
 
+    .lessons {
+        margin: 3rem 0;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
     .steps .col {
         width: 65%;
     }
 
-    .lessons .col {
+    .why-us {
+        background-color: rgba(0, 0, 0, 0.750);
+        padding: 3rem 0;
+        margin: 0;
+    }
+
+    .why-us .col-left {
         width: 65%;
     }
 
     .why-us .col-right {
         text-align: center;
+        width: 70%;
     }
+
 }
